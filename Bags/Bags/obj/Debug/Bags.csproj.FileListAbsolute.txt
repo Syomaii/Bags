@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Bags\Bags\obj\Debug\Bags.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Bags\Bags\obj\Debug\Bags.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Bags\Bags\obj\Debug\Bags.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Bags\Bags\bin\Debug\Bags.exe.config
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Bags\Bags\bin\Debug\Bags.exe
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Bags\Bags\bin\Debug\Bags.pdb
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Bags\Bags\obj\Debug\Bags.exe
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Bags\Bags\obj\Debug\Bags.pdb
